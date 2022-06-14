@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/> 
+</div>
+<div id="badges">
+  <a href="https://vk.com/sochi_ski" target="blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
+### Всем Привет, меня зовут Арсений 👋
 
 <!--
 **Frik580/Frik580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
