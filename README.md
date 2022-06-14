@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/ВКОНТАКТЕ-white?style=flat&logo=VK&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.instagram.com/sochiski_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&logoColor=red" alt="LinkedIn Badge"/>
   </a>
  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style==flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
