@@ -1,9 +1,12 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/> 
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/sochi_ski" target="_blank">
     <img src="https://img.shields.io/badge/ВКОНТАКТЕ-white?style=flat&logo=VK&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.instagram.com/sochiski_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&logoColor=black" alt="LinkedIn Badge"/>
   </a>
 </div>
 
