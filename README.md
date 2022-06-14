@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/sochi_ski" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/ВКОНТАКТЕ-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
