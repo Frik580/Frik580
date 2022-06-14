@@ -33,8 +33,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
-
+### :fire: Моя статистика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frik580&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Frik580/Frik580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
