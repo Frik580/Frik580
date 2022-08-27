@@ -43,8 +43,7 @@ Web-разработка - это одно из таких занятий.<br />
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="35" height="35"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="35" height="35"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="35" height="35"/>
 </div>
 
 ---
