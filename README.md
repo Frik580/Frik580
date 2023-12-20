@@ -1,17 +1,17 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="400"/> 
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/sochi_ski" target="_blank">
     <img src="https://img.shields.io/badge/ВКОНТАКТЕ-white?style=flat&logo=VK&logoColor=blue" alt="LinkedIn Badge"/>
-  <!-- </a>
+   </a>
    <a href="https://www.instagram.com/sochiski_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&logoColor=red" alt="LinkedIn Badge"/>
-  </a> -->
+  </a> 
  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style==flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+</div> -->
 
 
 ### Всем Привет, меня зовут Арсений 👋
